@@ -75,7 +75,7 @@ public class DetecterActivity extends Activity implements OnCameraListener, View
 			mImageView.setImageAlpha(128);
 		}
 	};
-
+	//随便一行
 	class FRAbsLoop extends AbsLoop {
 
 		AFR_FSDKVersion version = new AFR_FSDKVersion(); //识别
